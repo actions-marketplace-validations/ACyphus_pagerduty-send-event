@@ -74,10 +74,10 @@
     "superagent": "^9.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
-    "@babel/eslint-parser": "^7.25.1",
-    "@babel/preset-env": "^7.25.3",
-    "@vercel/ncc": "^0.38.1",
+    "@babel/core": "^7.28.5",
+    "@babel/eslint-parser": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@vercel/ncc": "^0.38.4",
     "babel-preset-jest": "^29.6.3",
     "eslint": "^8.57.0",
     "eslint-plugin-github": "^5.0.1",
